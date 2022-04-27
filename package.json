@@ -1,5 +1,5 @@
 {
-  "name": "login", 
+  "name": "login",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
     "react-redux": "^7.2.6",
     "react-scripts": "5.0.0"
   },
-  "scripts": { 
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

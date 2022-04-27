@@ -44,8 +44,6 @@ export default function Recipe() {
                      
                 </div> 
                      <Cards data={Data} />
-                
-               
             </div>  
         </>
     )

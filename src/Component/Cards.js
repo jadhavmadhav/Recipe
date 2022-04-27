@@ -1,13 +1,12 @@
 import React from 'react'
 
 export default function Cards(props) {
-  // console.log(props.data);
+  console.log(props.data);
     return (
         <>
 
            {
-            props.data.map((item)=>( 
-              
+            props.data.map((item)=>(  
             <div className='cards col-10 col-sm-6 col-md-3 col-lg-2 pt-4'>
             <div className='card'>
               <div className='card-image-top'>
